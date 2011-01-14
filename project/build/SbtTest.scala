@@ -15,5 +15,6 @@ class MyScalaStuff(info: ProjectInfo) extends DefaultProject(info) {
     import Scalaz._
     import org.am.scala.stuff._
     import org.am.scala.essentials._
+
     """
 }
